@@ -1,0 +1,4 @@
+Need support for:
+
+7zip
+eclipse (optional)
