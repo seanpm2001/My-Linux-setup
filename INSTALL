@@ -1,0 +1,19 @@
+---
+Installing Seanpm2001/My-Linux-setup
+---
+
+Seanpm2001/My-Linux-setup currently doesn't require installation, it is just a collection of scripts and data. It contains several useful scripts for enhancing Linux usage and personalization, but the scripts have not been tested yet, run them at your own risk.
+
+If you want to load the first project language file, you will need to have an BASH IDE/Interpreter and a package of any version of the BASH scripting language.
+
+If you want to view the image files, the majority of files are in PNG format. Make sure your computer can handle images of 1920x200000/2560x1440/2560x1080/1920x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as SVG, and JPG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+---
+Install instructions file version: 1 (Friday, 2021 September 3rd at 2:13 pm)
+---
