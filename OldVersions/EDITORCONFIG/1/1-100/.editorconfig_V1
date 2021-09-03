@@ -1,0 +1,94 @@
+# Start of script
+
+# Editor configuration file for Seanpm2001 / My Linux Setup
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.md *.mkd *.markdown]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.yml *.yaml]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.txt]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.sh]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.csv]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.svg]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.mk]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.vi *.vim]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# File info
+
+# File type: Editorconfig file (*.editorconfig)
+# File version: 1 (Friday, 2021 September 3rd at 2:01 pm)
+# Line count (including blank lines and compiler line): 95
+
+# End of script
