@@ -1,0 +1,7 @@
+[submodule "Torvalds/Linux"]
+	path = /LinuxKernel/
+	url = https://github.com/torvalds/linux
+  
+[submodule "Linux.linux"]
+	path = /Linux.linux/
+	url = https://github.com/seanpm2001/Linux.linux
