@@ -29,23 +29,29 @@ I was going to get a Lemur Pro, but the link became a HTTP 500 page the next day
 - Operating system: Ubuntu 22.04 (Jammy Jellyfish) LTS
 - Screen resolution: 1920x1080@60hz
 
-> New changes:
+### New changes:
 
-- - [ ] Device username is the same as my GitHub username: `seanpm2001` to match for future Git interoperability
-- - [ ] Git is now installed
+- - [x] Device username is the same as my GitHub username: `seanpm2001` to match for future Git interoperability
+- - [x] Git is now installed
 
-Other new applications:
+### Other new applications:
 
 * InkScape
 > I was wanting to try this out, I haven't gotten to it yet.
 * VirtualBox
 > Set for very minimal usage, only for when absolutely necessary. I plan to get back into virtual machines in a more serious manner, but it will be done on a desktop, and not a laptop.
 > > Active virtual machines
-- - - [ ] Ubuntu 20.04 (8 GB RAM, 64 GB Disk, 1 core, 100% utilization)
+- - - [x] Ubuntu 20.04 (8 GB RAM, 64 GB Disk, 1 core, 100% utilization)
 * SuperTuxKart
 > I wanted to try this game out, I had an interest in it, as I refer to it as the Mario Kart of the open source world. Unfortunately, the game refuses to load.
 * YT-DLP
 > Because YouTube-DL is unfortunately no longer developed, and is losing more and more functionality as time goes on.
+
+### Other
+
+Thank you System76 for not pre-installing Google Chrome and/or Google Chromium!
+
+`tracker-miner-fs` is back, and is now slightly more difficult to get rid of. I have it under control for now.
 
 ***
 
@@ -67,8 +73,8 @@ Gedit supports several new languages, but still doesn't support Assembly or Elm.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Saturday, June 11th at 7:55 pm PST)`
+**File version:** `2 (2022, Saturday, June 11th at 7:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `75`
+**Line count (including blank lines and compiler line):** `81`
 
 ***
